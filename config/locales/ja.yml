@@ -1,14 +1,12 @@
 ja:
-    activerecord:
-        attributes:
-            book:
-                title: "タイトル"
-                author: "著者"
-        errors:
-            models:
-                book:
-                    attributes:
-                        title:
-                            blank: "タイトルは必ず入力してください"
-                                                              1,3          先頭
-
+  activerecord:
+    attributes:
+      book:
+        title: "タイトル"
+        author: "著者"
+    errors:
+      models:
+        book:
+          attributes:
+            title:
+              blank: "タイトルは必ず入力してください"
